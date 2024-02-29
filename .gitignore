@@ -1,0 +1,5 @@
+qaseio.lock
+.pytest_cache
+build
+/Screenshots/*
+venv

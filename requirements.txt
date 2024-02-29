@@ -1,0 +1,5 @@
+pytest>=5.4.3
+selenium>=4.15.1
+qase-pytest
+selenium-wire>=4.6.2
+webdriver-manager
